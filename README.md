@@ -30,7 +30,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 <br><br>
 
-<div aling="center">
+<div align="center">
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=thatacorreia&center=trueVcenter=true&theme=rose-pine&border_radius=5&locale=pt_BR&fire=E00303&background=70%2CEBEBEB%2CBA55D3&border=F000FF&stroke=F000FF&ring=EBE7E7&sideNums=DD00EB&currStreakNum=D500E2&currStreakLabel=A21289&sideLabels=72007AC6&dates=FFFFFF)](https://git.io/streak-stats) 
 
